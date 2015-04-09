@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvvm101.Droid", "Mvvm101.Droid.csproj", "{56BFC079-A50B-439A-887D-D0A877DCB255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvvm101.Core", "..\Mvvm101.Core\Mvvm101.Core.csproj", "{8219819D-1784-4AC1-B612-6F304918DEF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvvm101.Plugin.Device", "..\Mvvm101.Plugin.Device\Mvvm101.Plugin.Device.csproj", "{14099E06-6C1D-46F9-838F-D9935780A560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvvm101.Plugin.Device.Droid", "Mvvm101.Plugin.Device.Droid\Mvvm101.Plugin.Device.Droid.csproj", "{FF29A09A-1A9B-46C3-8C68-5777BAEB2EC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14099E06-6C1D-46F9-838F-D9935780A560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14099E06-6C1D-46F9-838F-D9935780A560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14099E06-6C1D-46F9-838F-D9935780A560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14099E06-6C1D-46F9-838F-D9935780A560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56BFC079-A50B-439A-887D-D0A877DCB255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BFC079-A50B-439A-887D-D0A877DCB255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BFC079-A50B-439A-887D-D0A877DCB255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BFC079-A50B-439A-887D-D0A877DCB255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8219819D-1784-4AC1-B612-6F304918DEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8219819D-1784-4AC1-B612-6F304918DEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8219819D-1784-4AC1-B612-6F304918DEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8219819D-1784-4AC1-B612-6F304918DEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF29A09A-1A9B-46C3-8C68-5777BAEB2EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF29A09A-1A9B-46C3-8C68-5777BAEB2EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF29A09A-1A9B-46C3-8C68-5777BAEB2EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF29A09A-1A9B-46C3-8C68-5777BAEB2EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
